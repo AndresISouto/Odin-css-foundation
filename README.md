@@ -1,2 +1,2 @@
 # Odin-css-foundation
-Segunda parte del projesc
+Segunda parte del projecto Odin sobre css
