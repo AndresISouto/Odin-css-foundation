@@ -1,0 +1,99 @@
+header{
+    background-color: #1F2937;
+}
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.menu_nav{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+}
+#logo{
+    font-size: 1.5em;
+}
+.contenedor_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-header-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+    color: white;
+    font-size: 18px;
+    padding: 4em;
+    margin: 0 2em;
+}
+#imagen_cabecera{
+    width: 350px;
+    height: 250px;
+}
+button {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 16px;
+    border: 2px solid #0016b0;
+}
+#main_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    font-weight: 700;
+}
+img{
+    width: 250px;
+    height: 150px;
+    border: 2px solid blue;
+}
+.grupo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4em;
+}
+.cajitas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+section{
+    background-color: lightgray;
+    font-size: 20px;
+    font-style: italic;
+    padding: 4.5em;
+}
+.footer_decoration{
+    background-color: lightblue;
+    border-radius: 16px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px;
+    width: 60vw;
+}
+footer{
+    background-color: white;
+    padding: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
